@@ -4,6 +4,7 @@ package Data::Validate::DNS::SSHFP;
 
 # ABSTRACT: Validate DNS SSH Fingerprint (SSHFP) Record Values
 
+use 5.010;
 use strict;
 use warnings;
 
